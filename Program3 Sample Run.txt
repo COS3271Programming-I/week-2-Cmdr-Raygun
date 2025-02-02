@@ -1,0 +1,6 @@
+Welcome! This program will display a random integer in various forms.
+
+Integer: 188
+Binary: 10111100
+Hexadecimal: bc
+ASCII character: ¼

@@ -1,0 +1,13 @@
+Welcome! This program will display, in organized manner, basic personal info provided by you.
+
+Please enter your first name: Andrew
+Please enter your last name: Bittner
+Please enter your age (as an integer): 17
+Please enter your average sleep duration in hours (as a decimal): 7.5
+
+Personal info - Andrew Bittner
+
+    First name: Andrew
+    Last name: Bittner
+    Age: 17 years
+    Average sleep: 8 hours
